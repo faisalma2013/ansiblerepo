@@ -1,3 +1,3 @@
-# DEVOPS Jenkin maven-project
+# DEVOPS Jenkin CI CD maven-project
 
 Simple Maven Project
